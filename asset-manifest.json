@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sync-Food-Menus/static/css/main.05172c1a.chunk.css",
+    "main.js": "/Sync-Food-Menus/static/js/main.40d90e12.chunk.js",
+    "main.js.map": "/Sync-Food-Menus/static/js/main.40d90e12.chunk.js.map",
+    "runtime-main.js": "/Sync-Food-Menus/static/js/runtime-main.b46de582.js",
+    "runtime-main.js.map": "/Sync-Food-Menus/static/js/runtime-main.b46de582.js.map",
+    "static/js/2.9e8d5d34.chunk.js": "/Sync-Food-Menus/static/js/2.9e8d5d34.chunk.js",
+    "static/js/2.9e8d5d34.chunk.js.map": "/Sync-Food-Menus/static/js/2.9e8d5d34.chunk.js.map",
+    "static/js/3.fdc1de0b.chunk.js": "/Sync-Food-Menus/static/js/3.fdc1de0b.chunk.js",
+    "static/js/3.fdc1de0b.chunk.js.map": "/Sync-Food-Menus/static/js/3.fdc1de0b.chunk.js.map",
+    "index.html": "/Sync-Food-Menus/index.html",
+    "static/css/main.05172c1a.chunk.css.map": "/Sync-Food-Menus/static/css/main.05172c1a.chunk.css.map",
+    "static/js/2.9e8d5d34.chunk.js.LICENSE.txt": "/Sync-Food-Menus/static/js/2.9e8d5d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b46de582.js",
+    "static/js/2.9e8d5d34.chunk.js",
+    "static/css/main.05172c1a.chunk.css",
+    "static/js/main.40d90e12.chunk.js"
+  ]
+}
